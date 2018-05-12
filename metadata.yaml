@@ -1,0 +1,40 @@
+_repo: O--va-le-monde---13-Consid-rations-philosophiques-sur-l-organisation-sociale-de-demain_21413
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jankélévitch, S.
+    aliases:
+    - Jankelevitch, S.
+    - S. Jankélévitch
+    birthdate: 1869
+    gutenberg_agent_id: '9906'
+    url: http://www.gutenberg.org/2009/agents/9906
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathenau, Walther
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '9616'
+    url: http://www.gutenberg.org/2009/agents/9616
+    wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
+description: ''
+gutenberg_bookshelf:
+- FR Politique
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2007-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21413'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcsh 'Social history -- 20th century'
+title: "Où va le monde?\r\nConsidérations philosophiques sur l'organisation sociale\
+  \ de demain"
+url: http://www.gutenberg.org/ebooks/21413
