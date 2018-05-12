@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9616
     wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21413#O--va-le-monde---13-Consid-rations-philosophiques-sur-l-organisation-sociale-de-demain
 gutenberg_bookshelf:
 - FR Politique
 - FR Philosophie, Religion et Morale
